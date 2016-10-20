@@ -8,11 +8,13 @@
 </head>
 <body>
 
-<%= yield %>
+<%= render "layouts/header" %>
+  <%= yield %>
+<%= render "layouts/footer" %>
 
 
 <%= javascript_include_tag 'footer', 'data-turbolinks-track' => true %>
 <script> $(document).foundation(); </script>
-
+<script> $(document).foundation('joyride', 'start'); </script>
 </body>
 </html>
