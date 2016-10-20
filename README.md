@@ -1,7 +1,7 @@
 # foundation_snippets
 there's not much available yet here.
 
-no gem, foundation 5 added as "edit-able" sass-files.
+no gem, foundation 5 added as "edit-able" sass-files.<br>
 app/assets/stylesheets/f5_scss/
 
 
