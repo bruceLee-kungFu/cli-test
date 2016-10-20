@@ -1,5 +1,14 @@
+# foundation_snippets
+there's not much available yet here.
 
-tested on:
+no gem, foundation 5 added as "edit-able" sass-files.
+app/assets/stylesheets/f5_scss/
+
+
+## Credits:
+[Zurb Foundation Version 5](http://foundation.zurb.com/sites/docs/v/5.5.3/)
+
+### tested on:
 Fedora release 19 (Schrödinger’s Cat)
 
 ruby 2.0.0p648 (2015-12-16 revision 53162) [i686-linux]
