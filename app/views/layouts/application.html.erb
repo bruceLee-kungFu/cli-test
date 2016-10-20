@@ -8,13 +8,18 @@
 </head>
 <body>
 
-<%= render "layouts/header" %>
-  <%= yield %>
-<%= render "layouts/footer" %>
+
+<div class="row">
+  <div class="small-12 columns">
+    <%= render "layouts/header" %>
+      <%= yield %>
+    <%= render "layouts/footer" %>
+  </div>
+</div>
 
 
 <%= javascript_include_tag 'footer', 'data-turbolinks-track' => true %>
 <script> $(document).foundation(); </script>
-<script> $(document).foundation('joyride', 'start'); </script>
+<!-- <script> $(document).foundation('joyride', 'start'); </script> -->
 </body>
 </html>
