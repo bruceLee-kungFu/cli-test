@@ -1,28 +1,10 @@
-== README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+tested on:
+Fedora release 19 (Schrödinger’s Cat)
 
-Things you may want to cover:
+ruby 2.0.0p648 (2015-12-16 revision 53162) [i686-linux]
 
-* Ruby version
+# License:
 
-* System dependencies
+GPL version 3 or later
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
